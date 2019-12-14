@@ -6,13 +6,13 @@ Not quite sure how to set this up so I'll put the InfoNES folder from rockbox/ap
 
 Controlls:
 
-Hold button(Top piece): Menu[br]
-Select(Middle button): A
-Menu: Up
-Play: Down
-Left: Left
-Right: Right
-Play & Select: Start
-Left & Select: Select
+Hold button(Top piece): Menu <br/>
+Select(Middle button): A <br/>
+Menu: Up <br/>
+Play: Down <br/>
+Left: Left <br/>
+Right: Right <br/>
+Play & Select: Start <br/>
+Left & Select: Select <br/>
 
 Note: Atm B button has no working bind, will try to update soon
