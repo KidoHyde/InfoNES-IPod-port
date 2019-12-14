@@ -6,7 +6,7 @@ Not quite sure how to set this up so I'll put the InfoNES folder from rockbox/ap
 
 Controlls:
 
-Hold button(Top piece): Menu
+Hold button(Top piece): Menu[br]
 Select(Middle button): A
 Menu: Up
 Play: Down
